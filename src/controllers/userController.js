@@ -1,5 +1,5 @@
 
-let users = []; 
+let organizadores = []; 
 
 module.exports = class userController {
   static async createUser(req, res) {
